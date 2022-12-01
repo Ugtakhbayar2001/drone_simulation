@@ -2,25 +2,6 @@
 
 At the end of this project, you will be able to simulate the behavior of the drone and robots. You will be able to set the pickup location and the final destination of the robot, and afterward the drone will come and pick up the robot toward their destination. Not only the transportation simulation but you will be able to decide what to do with the robot's behavior when the passenger arrived at ther destination or if the drone is too late to pickup.
 
-This directory contains the support code needed to visualize the drone simulation system.
-
-#### What is in this directory?
-<ul>
-  <li>  <code>README_Project.md</code>
-  <li>  <code>.gitignore</code>
-  <li>  <code>app</code> folder, which contains:
-    <ul>
-      <li>  <code>graph_viewer</code> : producing graph visualization
-      <li>  <code>transit_service</code> : visualization
-    </ul>
-  <li>  <code>libs</code> folder, which contains:
-    <ul>
-      <li>  <code>routing</code> : finding the paths
-      <li>  <code>trainsit</code> : entities properties
-    </ul>
-  <li>  <code>dependencies</code>
-</ul>
-
 ## Getting Started
 
 Here is a quick overview of how to run the visualization :
