@@ -1,6 +1,6 @@
 # Drone Simulation System
 
-At the end of this project, you will be able to simulate the behavior of the drone and robots. You will be able to set the pickup location and the final destination of the robot, and afterward the drone will come and pick up the robot toward their destination. Not only the transportation simulation but you will be able to decide what to do with the robot's behavior when the passenger arrived at ther destination or if the drone is too late to pickup.
+You will be able to set the pickup location and the final destination of the robot, and afterward the drone will come and pick up the robot toward their destination. Not only the transportation simulation but you will be able to decide what to do with the robot's behavior when the passenger arrived at ther destination or if the drone is too late to pickup.
 
 ## Getting Started
 
